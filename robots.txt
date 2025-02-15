@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pooqn.csgad.com/diK/sitemap.xml.gz
